@@ -10,6 +10,7 @@ O objetivo é criar um sistema bancário simples utilizando **Python**, pratican
 ✅ Depositar valores  
 ✅ Sacar valores  
 ✅ Ver saldo  
+✅ Ver extrato
 
 ---
 
