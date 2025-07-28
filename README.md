@@ -25,4 +25,4 @@ O objetivo é criar um sistema bancário simples utilizando **Python**, pratican
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/danielrodrigues-hub/Sistema_bancario_b-sico_python.git
+git clone https://github.com/danielrodrigues-hub/Sistema_bancario_python
